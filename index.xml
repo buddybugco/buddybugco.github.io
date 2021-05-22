@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Buddy Bug</title>
+    <title>BuddyBug</title>
     <link>https://buddybug.io/</link>
-    <description>Recent content on Buddy Bug</description>
+    <description>Recent content on BuddyBug</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 May 2021 10:17:36 -0700</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 22 May 2021 10:17:36 -0700</pubDate>
       
       <guid>https://buddybug.io/posts/my-first-post/</guid>
-      <description>Welcome to Buddy Bug!</description>
+      <description>Welcome to BuddyBug!</description>
     </item>
     
   </channel>
